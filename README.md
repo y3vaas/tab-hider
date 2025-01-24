@@ -1,3 +1,3 @@
 # tab-hider
-hide tabs such as dyknow, etc.. 
-IF YOU USE IN SCHOOL AND GET CAUGHT- IT IS YOUR FAULT AS I AM GIVING YOU A WARNING NOT TO DO THIS IN SCHOOL
+hide tabs from dyknow, etc.. 
+We recommend not using this code, as it could go against school policies or ethical guidelines. If you do decide to use this code, you may get in trouble.
