@@ -1,2 +1,3 @@
 # tab-hider
 hide tabs such as dyknow, etc.. 
+IF YOU USE IN SCHOOL AND GET CAUGHT- IT IS YOUR FAULT AS I AM GIVING YOU A WARNING NOT TO DO THIS IN SCHOOL
